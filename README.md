@@ -6,6 +6,7 @@ LANGUAGES:
 PHP
 Javascript
 MySQL
+HTML
 Apache
 
 
